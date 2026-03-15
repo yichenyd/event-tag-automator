@@ -1,4 +1,4 @@
-# EventBadge-Automator
+# Event Tag Automator
 
 A Python-based tool that automates the generation of printable name tags from Excel registration rosters. It handles data cleaning, dynamic room assignment mapping, and PDF layout generation with conditional visual indicators.
 
